@@ -1,3 +1,5 @@
+<title>Logo<img src=""></title>
+
 ##This is project is not currently being maintained
 
 Forked from http://www.eyecon.ro/bootstrap-datepicker/
